@@ -1,6 +1,6 @@
 {
   "name": "create-typescene-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generator for apps using the Typescene framework",
   "author": "Jelmer Cormont",
   "license": "MIT",
