@@ -1,0 +1,1 @@
+console.log("Please use create-typescene-webapp instead.");
